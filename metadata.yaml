@@ -1,0 +1,6 @@
+homepage: "https://github.com/RHR07"
+documentation: "https://github.com/RHR07/1st-Party-Cookie-Reader-Web-Variable-Templates"
+versions:
+  # Latest version - RHR-1.0  
+  - sha: d2af6252f64f1358e14e154f95e7a5ab6b96ea73
+    changeNotes: Initial release.
